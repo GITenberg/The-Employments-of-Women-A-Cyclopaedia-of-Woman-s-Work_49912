@@ -1,10 +1,16 @@
 _repo: The-Employments-of-Women-A-Cyclopaedia-of-Woman-s-Work_49912
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49912-h/images/cover.jpg
 creator:
   author:
     agent_name: Penny, Virginia
     gutenberg_agent_id: '45607'
     url: http://www.gutenberg.org/2009/agents/45607
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49912#The-Employments-of-Women-A-Cyclopaedia-of-Woman-s-Work
 gutenberg_issued: '2015-09-08'
 gutenberg_type: Text
 identifiers:
